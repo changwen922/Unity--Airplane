@@ -11,4 +11,4 @@
 * 說明特色或額外功能
 隨分數增加遊戲難度提升；當到達12分時，增加鳥障礙物；到達24分時，增加幽浮障礙物。
 
-![image](https://github.com/changwen922/Unity-Project1-Airplane/blob/9c0f48c79f2d2421b0d3e2999b44f76164fade1d/%E7%B4%A0%E6%9D%90/cloud-computing-2.png)
+![image](https://github.com/changwen922/Unity-Project1-Airplane/blob/fe101b493d4d8309c9925402205f7fe3a2ca62ad/%E7%B4%A0%E6%9D%90/2023-03-10.png)
