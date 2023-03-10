@@ -1,2 +1,13 @@
-3D22 Assignment1111753513±i¶²¶v* ¹CÀ¸¾Þ§@ ¥Î¹«¼ÐÂIÀ»¹CÀ¸µe­±¡]¤£­­¨î°Ï°ì¡^¡A¨Ï­¸¾÷²£¥Í¦V¤W¯B¤O¡A¶·¾A·íÂIÀ»¨Ï­¸¾÷¤£¼Y¸¨©Î­¸¹LÀY¡]Ãþ¦üFlappy Bird¾Þ§@¼Ò¦¡¡^¡C* ¹CÀ¸¾÷¨î±±¨î­¸¾÷¨Ï­¸¾÷¤£¸IÄ²¨ì»ÙÃªª«¡]¶³¦·¡B³¾¡B«Õ¯B¤Î¤W¤UÀð¡^¡A¤À¼ÆÀH®É¶¡¼W¥[¡A¹CÀ¸«ùÄò®É¶¡¶V¤[¤À¼Æ¶V°ª¡C* ¹CÀ¸¯À§÷ªOÅv»¡©ú­¸¾÷¡B¶³¦·¡B³¾¡B«Õ¯B¡B¦º¤`µe­±¡Ghttps://www.flaticon.com
-­I´º¡Ghttps://www.freepik.com* »¡©ú¯S¦â©ÎÃB¥~¥\¯àÀH¤À¼Æ¼W¥[¹CÀ¸Ãø«×´£¤É¡F·í¨ì¹F12¤À®É¡A¼W¥[³¾»ÙÃªª«¡F¨ì¹F24¤À®É¡A¼W¥[«Õ¯B»ÙÃªª«¡C
+* éŠæˆ²æ“ä½œ 
+ç”¨é¼ æ¨™é»žæ“ŠéŠæˆ²ç•«é¢ï¼ˆä¸é™åˆ¶å€åŸŸï¼‰ï¼Œä½¿é£›æ©Ÿç”¢ç”Ÿå‘ä¸Šæµ®åŠ›ï¼Œé ˆé©ç•¶é»žæ“Šä½¿é£›æ©Ÿä¸å¢œè½æˆ–é£›éŽé ­ã€‚
+
+* éŠæˆ²æ©Ÿåˆ¶
+æŽ§åˆ¶é£›æ©Ÿä½¿é£›æ©Ÿä¸ç¢°è§¸åˆ°éšœç¤™ç‰©ï¼ˆé›²æœµã€é³¥ã€å¹½æµ®åŠä¸Šä¸‹ç‰†ï¼‰ï¼Œåˆ†æ•¸éš¨æ™‚é–“å¢žåŠ ï¼ŒéŠæˆ²æŒçºŒæ™‚é–“è¶Šä¹…åˆ†æ•¸è¶Šé«˜ã€‚
+
+* éŠæˆ²ç´ ææ¿æ¬Šèªªæ˜Ž
+é£›æ©Ÿã€é›²æœµã€é³¥ã€å¹½æµ®ã€æ­»äº¡ç•«é¢ï¼šhttps://www.flaticon.com
+èƒŒæ™¯ï¼šhttps://www.freepik.com
+
+* èªªæ˜Žç‰¹è‰²æˆ–é¡å¤–åŠŸèƒ½
+éš¨åˆ†æ•¸å¢žåŠ éŠæˆ²é›£åº¦æå‡ï¼›ç•¶åˆ°é”12åˆ†æ™‚ï¼Œå¢žåŠ é³¥éšœç¤™ç‰©ï¼›åˆ°é”24åˆ†æ™‚ï¼Œå¢žåŠ å¹½æµ®éšœç¤™ç‰©ã€‚
+
